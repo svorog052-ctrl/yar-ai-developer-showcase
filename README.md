@@ -4,7 +4,7 @@
 
 The full working repository remains private. This public portfolio view contains only safe-to-share information and one representative screenshot of the current interface.
 
-![Yar AI Developer — Synapss Chat](https://raw.githubusercontent.com/svorog052-ctrl/desktop-tutorial/portfolio-showcase/screenshots/yar-ai-developer-synapss-chat.jpg.png)
+![Yar AI Developer — Synapss Chat](screenshots/yar-ai-developer-synapss-chat.jpg.png)
 
 ## What the project explores
 
