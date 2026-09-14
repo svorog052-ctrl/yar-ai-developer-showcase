@@ -1,10 +1,10 @@
 # Yar AI Developer — Portfolio Showcase
 
-Curated portfolio repository for **Yar AI Developer**, a Windows desktop project focused on AI-assisted software development.
+**Yar AI Developer** is a Windows desktop project focused on AI-assisted software development.
 
-The full working repository remains private. This showcase contains only public-safe documentation, selected examples and one representative screenshot.
+The full working repository remains private. This public portfolio view contains only safe-to-share information and one representative screenshot of the current interface.
 
-![Yar AI Developer — Synapss Chat](screenshots/yar-ai-developer-synapss-chat.jpg.png)
+![Yar AI Developer — Synapss Chat](https://raw.githubusercontent.com/svorog052-ctrl/desktop-tutorial/portfolio-showcase/screenshots/yar-ai-developer-synapss-chat.jpg.png)
 
 ## What the project explores
 
@@ -17,7 +17,7 @@ The full working repository remains private. This showcase contains only public-
 - verification and fail-closed execution;
 - Git-oriented development workflows;
 - logging and diagnostics;
-- browser/UI automation experiments;
+- browser/UI automation;
 - SHA-256 integrity checks.
 
 ## High-level architecture
@@ -37,8 +37,6 @@ Plugin / Tool Layer
 ↓
 Operating System
 ```
-
-More detail: [Architecture overview](docs/ARCHITECTURE.md)
 
 ## Technology
 
@@ -60,19 +58,13 @@ Task
 → record the lesson
 ```
 
-The goal is not to copy the first AI-generated answer. The goal is to get a working, verified result that can be explained and reproduced.
+I do not treat the first AI-generated answer as the final result. The goal is a working, verified implementation that I can explain and reproduce.
 
-See: [AI-assisted development workflow](docs/AI_ASSISTED_DEVELOPMENT.md)
-
-## Engineering lessons
-
-The project includes public-safe examples of real AI-assisted debugging: browser submission verification, stale file hashes, runtime/build-path mistakes, PowerShell 5.1 compatibility and download automation.
-
-See: [Selected engineering lessons](docs/ENGINEERING_LESSONS.md)
+Examples of engineering problems handled during development include browser submission verification, stale file hashes, runtime/build-path mistakes, PowerShell 5.1 compatibility and download automation.
 
 ## Project status
 
-Yar AI Developer is an active work in progress. The screenshot above is representative of the current UI, while individual modules and workflows continue to evolve.
+Yar AI Developer is an **active work in progress**. The screenshot above is representative of the current UI; individual modules and workflows continue to evolve.
 
 ## Author
 
