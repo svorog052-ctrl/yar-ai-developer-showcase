@@ -2,7 +2,9 @@
 
 Curated portfolio repository for **Yar AI Developer**, a Windows desktop project focused on AI-assisted software development.
 
-The full working repository remains private. This showcase is intended to contain only public-safe documentation, selected examples and screenshots.
+The full working repository remains private. This showcase contains only public-safe documentation, selected examples and screenshots.
+
+![Yar AI Developer — Synapss Chat](screenshots/yar-ai-developer-synapss-chat.jpg.png)
 
 ## What the project explores
 
@@ -36,6 +38,8 @@ Plugin / Tool Layer
 Operating System
 ```
 
+More detail: [Architecture overview](docs/ARCHITECTURE.md)
+
 ## Technology
 
 TypeScript, JavaScript, HTML, CSS, Vite, Tauri, Rust, PowerShell, Git, REST API, JSON, Ollama and AI provider APIs.
@@ -58,10 +62,14 @@ Task
 
 The goal is not to copy the first AI-generated answer. The goal is to get a working, verified result that can be explained and reproduced.
 
-## Portfolio status
+See: [AI-assisted development workflow](docs/AI_ASSISTED_DEVELOPMENT.md)
 
-This showcase is being prepared for publication. Screenshots, architecture notes and selected engineering case studies will be added after public-safety review.
+## Engineering lessons
+
+The project includes public-safe examples of real AI-assisted debugging: browser submission verification, stale file hashes, runtime/build-path mistakes, PowerShell 5.1 compatibility and download automation.
+
+See: [Selected engineering lessons](docs/ENGINEERING_LESSONS.md)
 
 ## Author
 
-Yaroslav — AI-assisted development / AI automation / rapid prototyping
+**Yaroslav** — AI-assisted development / AI automation / rapid prototyping
