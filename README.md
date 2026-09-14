@@ -62,6 +62,10 @@ I do not treat the first AI-generated answer as the final result. The goal is a 
 
 Examples of engineering problems handled during development include browser submission verification, stale file hashes, runtime/build-path mistakes, PowerShell 5.1 compatibility and download automation.
 
+## Related portfolio project
+
+**[AI Table Analyzer](https://github.com/svorog052-ctrl/ai-table-analyzer)** — a small full-stack web app that uploads CSV/XLSX files, parses and previews table data, and sends table questions through a REST API to deterministic demo analysis or an AI provider.
+
 ## Project status
 
 Yar AI Developer is an **active work in progress**. The screenshot above is representative of the current UI; individual modules and workflows continue to evolve.
