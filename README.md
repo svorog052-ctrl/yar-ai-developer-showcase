@@ -2,7 +2,7 @@
 
 Curated portfolio repository for **Yar AI Developer**, a Windows desktop project focused on AI-assisted software development.
 
-The full working repository remains private. This showcase contains only public-safe documentation, selected examples and screenshots.
+The full working repository remains private. This showcase contains only public-safe documentation, selected examples and one representative screenshot.
 
 ![Yar AI Developer — Synapss Chat](screenshots/yar-ai-developer-synapss-chat.jpg.png)
 
@@ -69,6 +69,10 @@ See: [AI-assisted development workflow](docs/AI_ASSISTED_DEVELOPMENT.md)
 The project includes public-safe examples of real AI-assisted debugging: browser submission verification, stale file hashes, runtime/build-path mistakes, PowerShell 5.1 compatibility and download automation.
 
 See: [Selected engineering lessons](docs/ENGINEERING_LESSONS.md)
+
+## Project status
+
+Yar AI Developer is an active work in progress. The screenshot above is representative of the current UI, while individual modules and workflows continue to evolve.
 
 ## Author
 
